@@ -9,3 +9,8 @@
 - Frontend
   - React
   - Tailwinds
+
+#### Integrantes
+
+Gustavo Joaquín Calizaya León
+gustavojoaquincalizayaleon2@gmail.com
